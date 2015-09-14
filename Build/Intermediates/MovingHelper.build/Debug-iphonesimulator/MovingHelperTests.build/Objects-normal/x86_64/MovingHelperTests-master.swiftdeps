@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "7a9c97f80cf4268c66df07454ee6e684"
+inputs: 
+- "/Users/boydcase/Desktop/MovingHelper/MovingHelperTests/ExtensionTests.swift"
+- "/Users/boydcase/Desktop/MovingHelper/MovingHelperTests/TaskTests.swift"
